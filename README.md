@@ -1,7 +1,9 @@
 # Seguimiento de Satélites - TPI 2
 
 Materia: Programación I - UNRN - Comisión 3 - Ingeniería en Telecomunicaciones
+
 Docente: Linquiman Ventura, Lautaro Yamil
+
 Estudiante: Calabresi, Luciana Isabel
 
 ## Descripción
